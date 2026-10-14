@@ -29,7 +29,7 @@ SALESFORCE
 
 AI ENGINEERING
 
-- Multi-model orchestration: Claude + Gemini in parallel
+- Multi-model orchestration: custom AI models in parallel
 - Proprietary grounding framework (personal IP, in production)
 - Context-drift detection and real-time correction
 - Python / Node.js MCP server — AI to local filesystem delivery
